@@ -1,7 +1,6 @@
 #Escribir una función que calcule el factorial de un número dado.
 
 
-
 def factorial(num): 
     if num < 0: 
         print("Factorial of negative num does not exist")
